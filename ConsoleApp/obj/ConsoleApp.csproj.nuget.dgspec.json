@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takhtamyshev\\RiderProjects\\study\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\study\\study\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takhtamyshev\\RiderProjects\\study\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\study\\study\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takhtamyshev\\RiderProjects\\study\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\study\\study\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\takhtamyshev\\RiderProjects\\study\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\takhtamyshev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takhtamyshev\\RiderProjects\\study\\ConsoleApp\\obj\\",
+        "projectPath": "C:\\study\\study\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\skeriy\\.nuget\\packages\\",
+        "outputPath": "C:\\study\\study\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\takhtamyshev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\skeriy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\takhtamyshev\\.dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
